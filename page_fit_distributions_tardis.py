@@ -2,7 +2,6 @@
 from datetime import datetime
 import pandas as pd
 import numpy as np
-import talib as ta
 import math
 import matplotlib.pyplot as plt
 from scipy.stats import skew, kurtosis, mode
